@@ -1,0 +1,1 @@
+This is a Bukkit Plugin which allows users to buy the sun.

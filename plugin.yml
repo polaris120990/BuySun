@@ -1,0 +1,10 @@
+name: BuySun
+main: me.polaris120990.BuySun.BuySun
+version: 1.0
+author: polaris120990
+depend: [Vault]
+description: >
+             buys the sun!
+commands:
+   buysun:
+      description: Buys the sun!

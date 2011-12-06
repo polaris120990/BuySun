@@ -1,0 +1,7 @@
+price: 500
+timedelay: 3600
+
+
+# The time delay is in seconds.
+# 3600 = 1 hr
+# 86400 = 1 day
